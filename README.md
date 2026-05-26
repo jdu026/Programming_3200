@@ -39,3 +39,4 @@ npm create vite@latest .
   <Link to="/"></Link>
   ```
 - `useNavigate()`
+- 3215 정다운 3-2 검색기능 ★★	검색어 state, filter()	
